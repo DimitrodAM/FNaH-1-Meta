@@ -13,6 +13,11 @@ WARNING: This repository is for the docs and discussions about FNaH 1.
 As such, it contains spoilers!
 If you want to download or contribute to it, go to https://github.com/DimitrodAM/FNaH-1[DimitrodAM/FNaH-1].
 
+IMPORTANT: This project represents the original creators`' vision.
+As such, suggestions may be rejected if they don't fit this vision! +
+If you have a different idea, feel free to fork this project.
+We'll maintain a list of awesome forks here.
+
 == Viewing the docs
 
 You can view the docs here, on GitHub. Browse the repository and click on any `.adoc` file you want to read.
