@@ -7,9 +7,9 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
-:todo: INFO: TODO
+:templates: .templates
 
 == To be categorized
 
 Floppy disks::
-  {todo}
+  include:{templates}/TODO.adoc[]
