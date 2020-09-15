@@ -12,4 +12,4 @@ endif::[]
 == To be categorized
 
 Floppy disks::
-  include:{templates}/TODO.adoc[]
+  include::{templates}/TODO.adoc[]
