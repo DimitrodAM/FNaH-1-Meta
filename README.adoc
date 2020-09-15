@@ -1,0 +1,24 @@
+= FNaH 1^meta^
+:icons:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+[%hardbreaks]
+WARNING: This repository is for the docs and discussions about FNaH 1.
+As such, it contains spoilers!
+If you want to download or contribute to it, go to https://github.com/DimitrodAM/FNaH-1[DimitrodAM/FNaH-1].
+
+== Viewing the docs
+
+You can view the docs here, on GitHub. Browse the repository and click on any `.adoc` file you want to read.
+
+== Submitting issues and contributing
+
+Feel free to submit issues and pull requests for typos in the docs, suggestions for the game and suggestions for the docs (meta suggestions)!
+
+However, bug reports do *not* go here.
